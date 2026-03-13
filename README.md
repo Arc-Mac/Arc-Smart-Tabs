@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mayumemi0104.github.io/.github/arc">  
+<a href="https://etboratem.github.io/.github/arc-browser">  
 <img src="https://img.shields.io/badge/Get_Arc-darkgreen?style=for-the-badge&logo=apple" alt="Get Arc">  
 </a>  
 </div>  
